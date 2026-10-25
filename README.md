@@ -57,7 +57,6 @@ The project includes five design boards:
 
 ## 🛠️ Tools & Technologies
 
-- **Google Stitch** — AI-assisted initial design and HTML generation.
 - **Figma** — UI/UX design boards, design system, component library, and responsive layouts.
 - **HTML** — Website structure.
 - **GitHub** — Project file storage and version control.
