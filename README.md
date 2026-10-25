@@ -76,7 +76,7 @@ Wanderly/
 1. Open the repository on GitHub.
 2. Select `code.html` to view the website source code.
 3. Download the file and open it in a web browser to view the landing page.
-4. Open `DESIGN.md` to review the design specifications.
+
 
 ## 👥 Target Audience
 
