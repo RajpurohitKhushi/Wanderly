@@ -2,7 +2,11 @@
 
 > **The World Is Waiting for You.**  
 > A modern travel-planning landing page designed to inspire exploration through a clean, engaging, and user-friendly interface.
+## 🎨 Figma Design
 
+Explore the complete Wanderly UI/UX design, including the landing page, design system, reusable component library, responsive layouts, and implementation specifications.
+
+🔗 **[View Wanderly Design on Figma](https://www.figma.com/proto/tclgi8FBJhICHMZlyLS0CV/Wanderly?node-id=0-1&t=Ang4smj2LCK94VTV-1)**
 ## 🌍 About the Project
 
 **Wanderly** is a travel landing page UI/UX project created to make exploring destinations and planning trips feel simple and enjoyable. The design combines an inviting visual style, clear content hierarchy, and intuitive interface elements to create a welcoming travel experience.
